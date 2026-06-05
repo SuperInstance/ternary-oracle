@@ -1,0 +1,6 @@
+[package]
+name = "ternary-oracle"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Prediction market for fleet intelligence with ternary confidence staking"
