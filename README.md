@@ -84,3 +84,11 @@ Part of the SuperInstance ternary crate family. Complements `ternary-quorum` (fo
 ## License
 
 MIT
+
+## See Also
+- **ternary-predict** — related
+- **ternary-bayesian** — related
+- **ternary-inference** — related
+- **ternary-prophet** — related
+- **ternary-attention** — related
+
